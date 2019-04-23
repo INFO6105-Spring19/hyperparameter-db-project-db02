@@ -1,0 +1,4 @@
+﻿data_id,data_name,num_col,numeric,regression,string,classification,team
+1,MyAnimeList,33,TRUE,TRUE,TRUE,FALSE,ds2
+2,indian_liver_patien,11,TRUE,FALSE,FALSE,TRUE,ds3
+3,Employee_access_data,10,TRUE,FALSE,FALSE,TRUE,ds4

@@ -1,0 +1,7 @@
+xrt_id,name,nfolds,seed,kc_val_mo,kc_val_pr,fold_assignment,ntrees,distributionstopping_metric,stopping_tolerance,histogram_type
+1,XRT_1_AutoML_20190418_132524,5,-6.68E+18,FALSE,TRUE,Modulo,32,,0.008312003,Random
+2,XRT_1_AutoML_20190418_135050,5,6.82E+18,FALSE,TRUE,Modulo,46,,0.008312003,Random
+3,XRT_1_AutoML_20190418_140346,5,6.72E+18,FALSE,TRUE,Modulo,14,,0.008312003,Random
+4,XRT_1_AutoML_20190418_142243,5,2.63E+18,FALSE,TRUE,Modulo,18,,0.008312003,Random
+5,XRT_1_AutoML_20190418_144229,5,2.04E+18,FALSE,TRUE,Modulo,50,,0.008312003,Random
+6,XRT_1_AutoML_20190418_150256,5,-7.04E+18,FALSE,TRUE,Modulo,50,,0.008312003,Random

@@ -1,0 +1,7 @@
+glm_id,name,nfolds,seed,solver,kc_val_mo,kc_val_pr,fold_assignment,lambda_search,max_iterations,objective_epsilon,gradient_epsilon,link,lambda_min_ratio,obj_reg
+1,GLM_grid_1_AutoML_20190418_132524_model_1,5,3.52E+18,L_BFGS,FALSE,TRUE,Modulo,TRUE,300,300,1.00E-06,identity,0.0001,6.91E-05
+2,GLM_grid_1_AutoML_20190418_135050_model_1,5,-7.58E+16,L_BFGS,FALSE,TRUE,Modulo,TRUE,300,300,1.00E-06,identity,0.0001,6.91E-05
+3,GLM_grid_1_AutoML_20190418_140346_model_1,5,6.09E+18,L_BFGS,FALSE,TRUE,Modulo,TRUE,300,300,1.00E-06,identity,0.0001,6.91E-05
+4,GLM_grid_1_AutoML_20190418_142243_model_1,5,4.02E+18,L_BFGS,FALSE,TRUE,Modulo,TRUE,300,300,1.00E-06,identity,0.0001,6.91E-05
+5,GLM_grid_1_AutoML_20190418_144229_model_1,5,6.33E+18,L_BFGS,FALSE,TRUE,Modulo,TRUE,300,300,1.00E-06,identity,0.0001,6.91E-05
+6,GLM_grid_1_AutoML_20190418_150256_model_1,5,-5.91E+18,L_BFGS,FALSE,TRUE,Modulo,TRUE,300,300,1.00E-06,identity,0.0001,6.91E-05

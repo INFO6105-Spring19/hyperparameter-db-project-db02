@@ -1,0 +1,7 @@
+drf_id,name,nfolds,keep_cross_validation_models,keep_cross_validation_predictions,fold_assignment,stopping_metric,stopping_tolerance,seed,distribution
+1,DRF_1_AutoML_20190418_132524,5,FALSE,TRUE,Modulo,AUTO,0.008312003,-6.25E+18,gaussian
+2,DRF_1_AutoML_20190418_135050,5,FALSE,TRUE,Modulo,deviance,0.008312003,-4.44E+18,gaussian
+3,DRF_1_AutoML_20190418_140346,5,FALSE,TRUE,Modulo,deviance,0.008312003,2.36E+18,gaussian
+4,DRF_1_AutoML_20190418_142243,5,FALSE,TRUE,Modulo,deviance,0.008312003,-1.13E+18,gaussian
+5,DRF_1_AutoML_20190418_144229,5,FALSE,TRUE,Modulo,deviance,0.008312003,3.86E+18,gaussian
+6,DRF_1_AutoML_20190418_150256,5,FALSE,TRUE,Modulo,deviance,0.008312003,8.56E+18,gaussian
